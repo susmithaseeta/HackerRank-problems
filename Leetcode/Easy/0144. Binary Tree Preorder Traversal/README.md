@@ -74,8 +74,8 @@
 | Status | Accepted |
 | Language | Python3 |
 | Runtime | 0 ms (100.00%) |
-| Memory | 19.3 MB (28.73%) |
-| Submission ID | 2114916123 |
+| Memory | 19.4 MB (28.73%) |
+| Submission ID | 2115306628 |
 
 ---
 
